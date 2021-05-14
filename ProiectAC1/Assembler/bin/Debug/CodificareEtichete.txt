@@ -1,0 +1,30 @@
+MOV R4,R5
+ET1:INC R7           
+ADD R2 R3           
+JNZ ET1        |JNZ2
+MOV R15,R14
+BR ET2         |
+ET3:SUB R1,7
+ET2:JZ ET3
+MOV R4,R9
+
+
+NUME ETICHETA|PC ETICHETA|ADRESA (PC) INSTR JUMP CARE REFERA ETICHETA
+ET1          |2          |?
+ET2          |21          |14
+ET3          |17         |?
+
+0000 01 0100 01 0101   								|0   mov r4,r5
+0000 00 0000 00 0010   								|2   et1
+1000000010 01 0111     								|4    inc r7
+0001 01 0010 01 0011   								|6    add r2,r3
+1100 0001 adresa la care trebuie sa sara(2-8)  		|8  bne et1
+0000 01 1111 01 1110                                |10 mov r15,r14
+1100 0000 adresa la acre trebuie sa sara (20-12)    |12  br et2
+0000 0000 0000 1110                                 |14 et3
+0010 01 0001 00 0000                                |16 sub r1,7
+0000 00 0000 00 0111                                |18  7
+0000 00 0000 01  0100                               |20 et2
+1100 0010 adresa la acre trebuie sa sara (14-22 )   |22 beq et3
+0000 01 0100 01 1001                                |24 mov r4,r9
+

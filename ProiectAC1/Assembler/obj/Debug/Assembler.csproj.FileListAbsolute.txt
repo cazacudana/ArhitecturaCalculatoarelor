@@ -1,0 +1,86 @@
+D:\VS_Workspace\Assembler\Assembler\bin\Debug\Assembler.exe.config
+D:\VS_Workspace\Assembler\Assembler\obj\Debug\Assembler.csproj.ResolveComReference.cache
+D:\VS_Workspace\Assembler\Assembler\bin\Debug\Assembler.exe
+D:\VS_Workspace\Assembler\Assembler\bin\Debug\Assembler.pdb
+D:\VS_Workspace\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\VS_Workspace\Assembler\Assembler\obj\Debug\Assembler.AssemblerMainForm.resources
+D:\VS_Workspace\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\VS_Workspace\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+D:\VS_Workspace\Assembler\Assembler\obj\Debug\Assembler.exe
+D:\VS_Workspace\Assembler\Assembler\obj\Debug\Assembler.pdb
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.exe.config
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.ResolveComReference.cache
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.exe
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.pdb
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.exe
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.pdb
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.AssemblerMainForm.resources
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+E:\Facultate\An III\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.ResolveComReference.cache
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.AssemblerMainForm.resources
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\uic77032\sem2\an3\An 3 Sem II\Proiect Caprita\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.ResolveComReference.cache
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.AssemblerMainForm.resources
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelorP\ProiectAC\Asamblor\Assembler\Assembler\obj\Debug\Assembler.pdb
+E:\SmartGit\bin\ProiectAC\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+E:\SmartGit\bin\ProiectAC\Assembler\obj\Debug\Assembler.exe
+E:\SmartGit\bin\ProiectAC\Assembler\obj\Debug\Assembler.pdb
+E:\SmartGit\bin\ProiectAC\Assembler\bin\Debug\Assembler.exe.config
+E:\SmartGit\bin\ProiectAC\Assembler\bin\Debug\Assembler.exe
+E:\SmartGit\bin\ProiectAC\Assembler\bin\Debug\Assembler.pdb
+E:\SmartGit\bin\ProiectAC\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+E:\SmartGit\bin\ProiectAC\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+E:\SmartGit\bin\ProiectAC\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.exe
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.pdb
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.exe
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.pdb
+C:\Users\uic77032\sem2\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.new_type.resources
+E:\SmartGit\bin\ProiectAC\Assembler\obj\Debug\Assembler.new_type.resources
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.exe
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.pdb
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csprojAssemblyReference.cache
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csproj.GenerateResource.cache
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.exe
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.pdb
+C:\Users\uic77032\sem2\ArhitecturaCalculatoarelor\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.AssemblerMainForm.resources
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.exe
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.pdb
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.exe
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.pdb
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.AssemblerMainForm.resources
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CLAUDIU\Desktop\ProiectAc\ProiectAC-branch-3\Assembler\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\SmartGit\bin\ProiectAC-branch-3\Assembler\bin\Debug\Assembler.exe.config
+D:\SmartGit\bin\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.exe
+D:\SmartGit\bin\ProiectAC-branch-3\Assembler\obj\Debug\Assembler.pdb
